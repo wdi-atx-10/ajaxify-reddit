@@ -33,5 +33,5 @@ https://www.reddit.com/new/.json
 ## Challenge
 
 - Refactor your code to be more object oriented or make use of prototypes
-- Now that we've redone the original homepage, let's now come up with our own mind blowing UI using their data
+- Now that we've redone the original homepage, let's now come up with our own mind blowing UI using Bootstrap and their data
 - The call examples above only give you results for the first page. See if you can Google how to go beyond the first page of results and give them a way to navigate to other pages

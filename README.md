@@ -30,7 +30,7 @@ https://www.reddit.com/new/.json
 - Allow the user to click the story link or image to go to the actual URL of the story
 - For now, **don't** worry about giving users the ability to upvote or downvote the story
 
-## Challenge
+## Challenges
 
 - Refactor your code to be more object oriented or make use of prototypes
 - Now that we've redone the original homepage, let's now come up with our own mind blowing UI using Bootstrap and their data
